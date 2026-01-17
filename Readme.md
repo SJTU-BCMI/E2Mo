@@ -71,10 +71,10 @@ conda env create -f environment.yml
 # Citation
 If you find this code useful, please consider citing our paper:
 ```
-@inproceedings{,
+@inproceedings{yin2026multimodal,
   title={A Multimodal EEG-Eye Movement Model for Automatic Depression Detection},
-  author={},
-  booktitle={AAAI},
+  author={Hao-Long Yin, Jian-Ming Zhang, Ren-Jie Dai, Wei-Long Zheng, Qinyu Lv, Zhenghui Yi, Bao-Liang Lu},
+  booktitle={Processings of the AAAI Conference on Artificial Intelligence},
   year={2026}
 }
 ```
